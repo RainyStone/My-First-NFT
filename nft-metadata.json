@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Anime image"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Brown"
+      }
+    ],
+    "description": "My first nft image.",
+    "image": "ipfs://Qmf1qv3qEyHpi4MfiT3eY5N14M3nsyzX15Fh8vA1KaWN9s",
+    "name": "Ramses"
+  }
+  
