@@ -17,5 +17,6 @@
 
 ​            npm 6.14.4
 
-四、教程中使用的是Ropsten测试网络上，而本项目实践使用的是Rinkeby测试网络，因此针对于本项目代码，需要领取Rinkeby测试币；并且hardhat.config.js中针对于Ropsten的配置名以及其它命令项中的Ropsten名都需修改成Rinkeby。当然，如果根据教程使用的是Ropsten测试网络，则此步忽略。
+四、教程中使用的是Ropsten测试网络上，而本项目实践使用的是Rinkeby测试网络，因此针对于本项目代码，需要领取Rinkeby测试币；并且hardhat.config.js中针对于Ropsten的配置名以及其它命令项中的Ropsten名都需修改成Rinkeby。当然，如果根据教程使用的是Ropsten测试网络，则此步忽略
 
+五、本项目实践代码部署在Rinkeby测试网络上的合约地址：0x52F39b939a14935cCb483F0c3536a7C4226fC445；注意，需要在Rinkeby网络上查看该合约，如果在教程中Ropsten网络上是无法查询到该合约地址的
